@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cassandra, System design**
 
-- 👨‍💻 All of my projects are available at [https://samaksha.github.io/](https://samaksha.github.io/)
+- 👨‍💻 All of my projects are available at my [Website](https://samaksha.github.io/)
 
 - 💬 Ask me about **Javascript, Node.Js, .NET, Angular**
 
