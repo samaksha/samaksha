@@ -2,7 +2,7 @@
 <h3 align="center">a passionate full stack web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces and robust backend. i take great care in the experience, architecture, and code quality of the things I build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaksha&label=Profile%20views&color=0e75b6&style=flat" alt="samaksha" /> </p>
-<img alt = "coding" width = "400" src = "https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
+<img alt = "coding" width = "400" align = "rigth" src = "https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
 - 🌱 I’m currently learning **Cassandra, System design**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kumarsamaksha21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zy0oMym-I_2nksY_XSvlYVnlqu2vVx0V/view?usp=share_link](https://drive.google.com/file/d/1zy0oMym-I_2nksY_XSvlYVnlqu2vVx0V/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zy0oMym-I_2nksY_XSvlYVnlqu2vVx0V/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
