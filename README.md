@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at my [Website](https://samaksha.github.io/)
 
-- 💬 Ask me about **Javascript, Node.Js, .NET, Angular**
+- 💬 Ask me about **Javascript, Node.Js, .NET, Django, React**
 
 - 📫 How to reach me **kumarsamaksha21@gmail.com**
 
